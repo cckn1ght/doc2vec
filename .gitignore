@@ -1,0 +1,8 @@
+*.d2v
+*.npy
+*.txt
+/IMDB_data/
+/pet/
+/test/
+train/
+*.csv
